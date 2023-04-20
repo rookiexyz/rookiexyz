@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Isharab Ahmed
 #### I am Machine Learning Engineer
-![I am Machine Learning Engineer]([https://media.licdn.com/dms/image/D4D16AQF2E9uDIa8L-w/profile-displaybackgroundimage-shrink_350_1400/0/1681338357457?e=1687392000&v=beta&t=gQyS0VHBcowDSIxPMtkAhXN4759If-ygGvD8gvOJ9o8](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png))
+![I am Machine Learning Engineer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
  I am a skilled Machine Learning Engineer with expertise in Python, TensorFlow, PyTorch, Computer Vision, and NLP. I have a deep understanding of Machine Learning algorithms and the ability to develop innovative solutions using my knowledge.
 
