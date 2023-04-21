@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Isharab Ahmed
+### Hi there 👋, My name is **Isharab Ahmed**
 #### I am Machine Learning Engineer
 ![I am Machine Learning Engineer](banner.png)
 
