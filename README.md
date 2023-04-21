@@ -10,6 +10,8 @@ As a Machine Learning Engineer, I enjoy creating intelligent systems that can un
 
 My passion for Machine Learning and commitment to excellence is evident in the work I produce. I pride myself on staying organized, meeting deadlines, and delivering exceptional results. Overall, my expertise, dedication, and creativity make me a highly skilled and successful Machine Learning Engineer.
 
+### Skills
+
 * 🐍 PYTHON
 * 😍 PYTORCH
 * 😊 TENSORFLOW
