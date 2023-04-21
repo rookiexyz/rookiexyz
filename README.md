@@ -10,13 +10,13 @@ As a Machine Learning Engineer, I enjoy creating intelligent systems that can un
 
 My passion for Machine Learning and commitment to excellence is evident in the work I produce. I pride myself on staying organized, meeting deadlines, and delivering exceptional results. Overall, my expertise, dedication, and creativity make me a highly skilled and successful Machine Learning Engineer.
 
-* ![image](https://user-images.githubusercontent.com/98209517/233710050-7abeaf95-7d27-49e3-9042-c4a0f7279206.png) PYTHON
-* PYTORCH
-* TENSORFLOW
-* COMPUTER VISION
-* Natural Language Pprocessing
-* HUGGINGFACE
-* MLOPS
+* 🐍 PYTHON
+* 😍 PYTORCH
+* 😊 TENSORFLOW
+* 📷 COMPUTER VISION
+* 💬 Natural Language Pprocessing
+* 🤗 HUGGINGFACE
+* 🖥️ MLOPS
 
 - 🌱 I’m currently learning MLOPs 
 
