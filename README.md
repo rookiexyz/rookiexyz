@@ -1,36 +1,34 @@
-![Profile views](https://gpvc.arturio.dev/isharab)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isharab&label=Profile%20views&color=0e75b6&style=flat" alt="isharab" /> </p>
+
+<p align="left"> <a href="https://twitter.com/isharabahmed" target="blank"><img src="https://img.shields.io/twitter/follow/isharabahmed?logo=twitter&style=for-the-badge" alt="isharabahmed" /></a> </p>
 
 # Hi there 👋, My name is *Isharab Ahmed*
-## I am Machine Learning Engineer
+## I am Machine **Learning Engineer**
 ![I am Machine Learning Engineer](banner.png)
 
- I am a skilled Machine Learning Engineer with expertise in Python, TensorFlow, PyTorch, Computer Vision, and NLP. I have a deep understanding of Machine Learning algorithms and the ability to develop innovative solutions using my knowledge.
+<h3 align="center">I am a skilled Machine Learning Engineer with expertise in Python, TensorFlow, PyTorch, Computer Vision, and NLP. I have a deep understanding of Machine Learning algorithms and the ability to develop innovative solutions using my knowledge. As a Machine Learning Engineer, I enjoy creating intelligent systems that can understand and learn from complex data. My goal is to develop models that can provide valuable insights and drive business decisions. I am constantly staying up-to-date with the latest trends in the field and am always seeking new challenges and opportunities to apply my skills. My passion for Machine Learning and commitment to excellence is evident in the work I produce. I pride myself on staying organized, meeting deadlines, and delivering exceptional results. Overall, my expertise, dedication, and creativity make me a highly skilled and successful Machine Learning Engineer.</h3>
 
-As a Machine Learning Engineer, I enjoy creating intelligent systems that can understand and learn from complex data. My goal is to develop models that can provide valuable insights and drive business decisions. I am constantly staying up-to-date with the latest trends in the field and am always seeking new challenges and opportunities to apply my skills.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isharab" alt="isharab" /></a> </p>
 
-My passion for Machine Learning and commitment to excellence is evident in the work I produce. I pride myself on staying organized, meeting deadlines, and delivering exceptional results. Overall, my expertise, dedication, and creativity make me a highly skilled and successful Machine Learning Engineer.
+- 🌱 I’m currently learning **MLOPs**
 
-### Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/isharabahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isharabahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/isharabahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isharabahmed" height="30" width="40" /></a>
+<a href="https://kaggle.com/isharab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isharab" height="30" width="40" /></a>
+<a href="https://fb.com/isharab.ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isharab.ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/isharab.ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isharab.ahmed" height="30" width="40" /></a>
+</p>
 
-* 🐍 PYTHON
-* 😍 PYTORCH
-* 😊 TENSORFLOW
-* 📷 COMPUTER VISION
-* 💬 Natural Language Pprocessing
-* 🤗 HUGGINGFACE
-* 🖥️ MLOPS
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 🌱 I’m currently learning MLOPs 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/isharab1507"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="isharab1507" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isharab&show_icons=true&locale=en&layout=compact" alt="isharab" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isharab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/isharabahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/isharabahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/isharab.ahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/isharabahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/isharab)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isharab&show_icons=true&locale=en" alt="isharab" /></p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isharab)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=isharab)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/isharab)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=isharab)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isharab&" alt="isharab" /></p>
