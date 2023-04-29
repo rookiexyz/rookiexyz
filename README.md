@@ -25,7 +25,7 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isharab&show_icons=true&theme=cobalt)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=isharab)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=isharab)](https://github.com/ryo-ma/github-profile-trophy&theme=gruvbox)
 
 ![GitHub metrics](https://metrics.lecoq.io/isharab)  
 
