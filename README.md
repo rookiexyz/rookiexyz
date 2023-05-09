@@ -29,4 +29,4 @@ Skills:
 
 ![GitHub metrics](https://metrics.lecoq.io/isharab)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=isharab)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=isharab&theme=gruvbox&border_radius=5)](https://git.io/streak-stats)
