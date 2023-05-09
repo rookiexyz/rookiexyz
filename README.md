@@ -23,7 +23,7 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isharab)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isharab&show_icons=true&theme=cobalt)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isharab&show_icons=true&theme=cobalt&count_private=true)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=isharab)](https://github.com/ryo-ma/github-profile-trophy&theme=gruvbox)
 
